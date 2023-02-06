@@ -1,1 +1,2 @@
 pytest
+git+https://git@github.com/sgalluzzi/uvainstallablepackage.git@0.0.0
