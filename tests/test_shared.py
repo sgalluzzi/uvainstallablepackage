@@ -1,6 +1,8 @@
 import sys
 sys.path.append('.')
 import shared as sh
+import pytest
+
 
 def test_clean_string():
     test_str = " This! is      a ,test string  "
